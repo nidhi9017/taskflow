@@ -18,6 +18,6 @@ A modern and intuitive To-Do application designed to help users organize tasks, 
 
 ## Live Demo
 
-Coming Soon
+127.0.0.1:5500/index.html
 
 
