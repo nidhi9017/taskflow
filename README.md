@@ -10,7 +10,7 @@ A modern and intuitive To-Do application designed to help users organize tasks, 
 - Clean and responsive user interface
 - Built with pure HTML, CSS, and JavaScript
 
-## Technologies Used
+## Tech used
 
 - HTML5
 - CSS3
@@ -20,6 +20,4 @@ A modern and intuitive To-Do application designed to help users organize tasks, 
 
 Coming Soon
 
-## Author
 
-Nidhi
