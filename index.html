@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TaskFlow</title>
+
+    <link rel="stylesheet" href="design.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <main class="app">
+
+            <section class="todo-card">
+
+                <div class="top-bar">
+                    <div>
+                        <h1>TaskFlow</h1>
+                        <p>Organize your day efficiently</p>
+                    </div>
+
+                    <div class="stats">
+                        <span id="task-count">0 Tasks</span>
+                    </div>
+                </div>
+
+                <div class="input-container">
+
+                    <input
+                        type="text"
+                        id="todo-input"
+                        placeholder="What needs to be done?"
+                    >
+
+                    <button id="add-btn">
+                        Add 
+                    </button>
+
+                </div>
+
+                <ul id="todo-list"></ul>
+
+            </section>
+
+        </main>
+
+    </div>
+
+    <script src="code.js"></script>
+
+</body>
+</html>
